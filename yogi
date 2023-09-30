@@ -50,5 +50,3 @@ cd $PATHTOAPP && cd ..
 PRIVATEKEY=""
 
 RECORD=""
-
-snarkos developer deploy "${APPNAME}.aleo" --private-key "$
